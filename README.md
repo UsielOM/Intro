@@ -1,5 +1,5 @@
-# Intro
-Practica de la introducción al FronEnd
+# Introducion al FrontEnd
+Practica de la introducción al FrontEnd
 
 Elborado por: Orihuela Monroy Usiel
 
